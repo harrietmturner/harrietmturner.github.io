@@ -12,7 +12,7 @@ I presented a poster at the National Astronomy Meeting (NAM), which was hosted a
 
 My poster presented the work from my 2022 paper, which was also presented virtually at EGU earlier in the year. This work looked at how removing ICMEs and the age of observations affect solar wind data assimilation. 
 
-The full PDF of the poster can be found [here](slides/NAM Poster.pdf).
+The full PDF of the poster can be found [here](slides/NAM poster.pdf).
 
 ![Presenting NAM poster](pictures/NAM_poster.jpeg)
 *Presenting my poster at NAM, 2022.*
