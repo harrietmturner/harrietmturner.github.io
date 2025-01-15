@@ -58,6 +58,7 @@ The Met Office provided CASE sponsorship for my PhD. I completed a 3 week placem
 **IT and computing**
 
 * Proficient use of Python for data analysis and statistical methods.
+* Experience with numerical modelling. 
 * Attended software development training as part of my PhD.
 * Adaptation of other users' code for use in my own work, such as working with the BRaVDA code.
 * Integration of code with Git for version control and working on collaborative projects.
