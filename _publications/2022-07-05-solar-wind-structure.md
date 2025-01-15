@@ -1,0 +1,13 @@
+---
+title: "Rate of Change of Large-Scale Solar-Wind Structure. "
+collection: publications
+category: manuscripts
+permalink: /publication/2022-07-05-solar-wind-structure
+excerpt: 'This work examines the variability of near-Earth in situ solar wind observations and observation-constrained solar wind simulations.'
+date: 2022-07-05
+venue: 'Solar Physics'
+paperurl: 'https://link.springer.com/article/10.1007/s11207-022-02006-4'
+citation: 'Owens, M., Chakraborty, N., Turner, H., Lang, M., Riley, P., Lockwood, M., Barnard, L., and Chi, Y. (2022). Rate of Cahnge of Large-Scale Solar-Wind Structure. <i>Solar Physics, 297<i>. DOI: 10.1007/s11207-022-02006-4.'
+---
+
+Quantifying the rate at which the large-scale solar-wind structure evolves is important for both understanding the physical processes occurring in the corona and for space-weather forecast improvement. Models of the global corona and heliosphere typically assume that the ambient solar-wind structure is steady and corotates with the Sun, which is generally expected to be more valid at solar minimum than solar maximum, but this has not been well tested. Similarly, assimilation of solar-wind observations into models requires quantitative knowledge of how the reliability of the observations changes with age. In this study we examine 25 years of near-Earth in situ solar-wind observations and 45 years of observation-constrained solar-wind simulations to determine how much the 1-AU solar-wind speed, *V*, and radial magnetic-field component, *B<sub>R</sub>*, vary between consecutive Carrington rotations (CRs). For the in situ spacecraft observations, we find the rate of change of *V* and *B<sub>R</sub>* is similar during solar maximum and minimum, particularly when transient interplanetary coronal mass ejections are removed from the data. This is somewhat counter to expectations. Conversely, the rate of change in *V* and *B<sub>R</sub>* obtained from global heliospheric simulations is strongly correlated with the solar cycle, with the corona and heliosphere being more variable at solar maximum, as expected. Limiting the analysis of the simulations to the solar equatorial region, however, strongly reduces the difference between solar maximum and minimum, bringing the result into close agreement with the in situ observations. This latitudinal sensitivity is explained in terms of the global solar-wind structure over the solar cycle. For the purposes of assimilating in-ecliptic solar-wind observations, we suggest the uncertainty in *V* should increase by around 3 km s<sup>−1</sup> per day since the observation was made and 0.1 nT per day for *B<sub>R</sub>*. For observations made at higher latitude, the effect of observation age will be solar-cycle dependent.

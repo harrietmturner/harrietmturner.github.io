@@ -1,0 +1,13 @@
+---
+title: "Solar wind data assimilation in an operational context: Use of near-real-time data and the forecast value of an L5 monitor."
+collection: publications
+category: manuscripts
+permalink: /publication/2023-05-18-operational-DA
+excerpt: 'Here, we show how near-real-time data can be used for more accurate solar wind forecast and the value that an L5 monitor can add to forecast skill.'
+date: 2023-05-18
+venue: 'Space Weather'
+paperurl: 'https://doi.org/10.1029/2023SW003457'
+citation: 'Turner, H., Lang, M., Owens, M., Smith, A., Riley, P., Marsh, M., and Gonzi, S. (2023). Solar wind data assimilation in an operational context: Use of near-real-time data and the forecast value of an L5 monitor. <i>Space Weather, 21<i>. DOI: 10.1029/2023SW003457)'
+---
+
+For accurate and timely space weather forecasting, advanced knowledge of the ambient solar wind is required, both for its direct impact on the magnetosphere and for accurately forecasting the propagation of coronal mass ejections to Earth. Data assimilation (DA) combines model output and observations to form an optimum estimation of reality. Initial experiments with assimilation of in situ solar wind speed observations suggest the potential for significant improvement in the forecast skill of near-Earth solar wind conditions. However, these experiments have assimilated science-quality observations, rather than near-real-time (NRT) data that would be available to an operational forecast scheme. Here, we assimilate both NRT and science observations from the Solar Terrestrial Relations Observatory (STEREO) and near-Earth observations from the Advanced Composition Explorer and Deep Space Climate Observatory spacecraft. We show that solar wind speed forecasts using NRT data are comparable to those based on science-level data. This suggests that an operational solar wind DA scheme would provide significant forecast improvement, with reduction in the mean absolute error of solar wind speed around 46% over forecasts without DA. With a proposed space weather monitor planned for the L5 Lagrange point, we also quantify the solar wind forecast gain expected from L5 observations alongside existing observations from L1. This is achieved using configurations of the STEREO and L1 spacecraft. There is a 15% improvement for forecast lead times of less than 5 days when observations from L5 are assimilated alongside those from L1, compared to assimilation of L1 observations alone.

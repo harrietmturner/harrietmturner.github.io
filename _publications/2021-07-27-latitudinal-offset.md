@@ -1,0 +1,13 @@
+---
+title: "The Influence of Spacecraft Latitudinal Offset on the Accuracy of Corotation Forecasts."
+collection: publications
+category: manuscripts
+permalink: /publication/2021-07-27-latitudinal-offset
+excerpt: 'Here, the effect of latitudinal separation between the forecasting spacecraft and the forecast location on corotation forecasts in investigated.'
+date: 2021-07-27
+venue: 'Space Weather'
+paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021SW002802'
+citation: 'Turner, H., Owens, M., Lang, M., and Gonzi, S. (2021). The influence of spacecraft latitudinal offset on the accuracy of corotation forecasts. <i>Space Weather, 19<i>. DOI: 10.1029/2021SW002802.'
+---
+
+Knowledge of the ambient solar wind is important for accurate space weather forecasting. A simple-but-effective method of forecasting near-Earth solar wind speed is “corotation,” wherein solar wind structure is assumed to be fixed in the reference frame rotating with the Sun. Under this approximation, observations at a source spacecraft can be rotated to a target location, such as Earth. Forecast accuracy depends upon the rate of solar wind evolution, longitudinal and latitudinal separation between the source and target, and latitudinal structure in the solar wind itself. The time-evolution rate and latitudinal structure of the solar wind are both strongly influenced by the solar cycle, though in opposing ways. A latitudinal separation (offset) between source and target spacecraft is typically present, introducing an error to corotation forecasts. In this study, we use observations from the Solar Terrestrial Relations Observatory (STEREO) and near-Earth spacecraft to quantify the latitudinal error. Aliasing between the solar cycle and STEREO orbits means that individual contributions to the forecast error are difficult to isolate. However, by considering an 18-month interval near the end of solar minimum, we find that the latitudinal-offset contribution to corotation forecast error cannot be directly detected for offsets <6°, but is increasingly important as offsets increase. This result can be used to improve solar wind data assimilation, allowing representivity errors in solar wind observations to be correctly specified. Furthermore, as the maximum latitudinal offset between L5 and Earth is ≈5°, corotation forecasts from a future L5 spacecraft should not be greatly affected by latitudinal offset.

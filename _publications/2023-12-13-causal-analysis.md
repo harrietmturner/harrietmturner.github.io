@@ -1,0 +1,13 @@
+---
+title: "Causal Analysis of Influence of the Solar Cycle and Latitudinal Solar-Wind Structure on Corotation Forecasts."
+collection: publications
+category: manuscripts
+permalink: /publication/2023-12-13-causal-analysis
+excerpt: 'This work uses a causal inference approach to investigate the impact of the solar-cycle and latitudinal solar-wind structure on solar wind corotation forecasts.'
+date: 2023-12-13
+venue: 'Solar Physics'
+paperurl: 'https://link.springer.com/article/10.1007/s11207-023-02232-4'
+citation: 'Chakraborty, N., Turner, H., Owens, M., and Lang, M. (2023). Causal Analysis of Influence of the Solar Cycle and Latitudinal Solar-Wind Structure on Corotation Forecasts. <i>Solar Physics, 298<i>. DOI: 10.1007/s11207-023-02232-4.'
+---
+
+Studying solar-wind conditions is central to forecasting the impact of space weather on Earth. Under the assumption that the structure of this wind is constant in time and co-rotates with the Sun, solar-wind and thereby space-weather forecasts have been made quite effectively. Such co-rotation forecasts are well studied with decades of observations from STEREO and near-Earth spacecraft. Forecast accuracy is primarily determined by three factors: i) the longitudinal separation of spacecraft from Earth determines the corotation time (and hence forecast lead time) [$$\delta$$t] over which the solar wind must be assumed to be constant, ii) the latitudinal separation (or offset) between Earth and spacecraft [$$\delta \theta$$]] determines the degree to which the same solar wind is being encountered at both locations, and iii) the solar cycle, via the sunspot number (SSN), acts as a proxy for both how fast the solar-wind structure is evolving and how much it varies in latitude. However, the precise dependencies factoring in uncertainties are a mixture of influences from each of these factors. Furthermore, for high-precision forecasts, it is important to understand what drives the forecast accuracy and its uncertainty. Here we present a causal inference approach based on information-theoretic measures to do this. Our framework can compute not only the direct (linear and nonlinear) dependencies of the forecast mean absolute error (MAE) on SSN, $$\delta \theta$$, and $$\delta$$t, but also how these individual variables combine to enhance or diminish the MAE. We provide an initial assessment of this with the potential of aiding data assimilation in the future.

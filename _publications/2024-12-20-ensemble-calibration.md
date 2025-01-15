@@ -1,0 +1,13 @@
+---
+title: "Adapting Ensemble-Calibration Techniques to Probabilistic Solar-Wind Forecasts. "
+collection: publications
+category: manuscripts
+permalink: /publication/Ensemble-calibration-paper
+excerpt: 'The work presented in this paper shows how ensemble calibration techniques, often used in terrestrial weather forecasting, can be applied to solar wind forecasting using MAS and HUXt.'
+date: 2024-12-20
+venue: 'Space Weather'
+paperurl: 'https://doi.org/10.1029/2024SW004164'
+citation: 'Edward-Inatimi, N. O., Owens, M. J., Barnard, L., Turner, H., Marsh, M., Gonzi, S., Lang, M., and Riley, P. (2024). Adapting Ensemble-Calibration Techniques to Probabilistic Solar-Wind Forecasts. <i>Space Weather, 22<i>. DOI: 10.1029/2024SW004164.'
+---
+
+Solar-wind forecasting is critical for predicting events which can affect Earth's technological systems. Typically, forecasts combine coronal model outputs with heliospheric models to predict near-Earth conditions. Ensemble forecasting generates sets of outputs to create probabilistic forecasts which quantify forecast uncertainty, vital for reliable/actionable forecasts. We adapt meteorological methods to create a calibrated solar-wind ensemble and probabilistic forecast for ambient solar wind, a prerequisite for accurate coronal mass ejection (CME) forecasting. Calibration is achieved by adjusting ensemble inputs/outputs to align the ensemble spread with observed event frequencies. We produce hindcasts in near-Earth space using coronal-model output over Solar Cycle 24, as input to Heliospheric Upwind eXtrapolation with time dependence (HUXt) solar-wind model. Making spatial perturbations to the coronal model output at 0.1 AU, we produce ensembles of inner-boundary conditions for HUXt, evaluating how forecast accuracy was impacted by the scales of perturbations applied. We found optimal spatial perturbations described by Gaussian distributions with variances of 20° latitude and 10° longitude; these might represent spatial uncertainty within the coronal model. This produced probabilistic forecasts better matching observed frequencies. Calibration improved forecast reliability, reducing the Brier score by 9% and forecast decisiveness increasing AUC ROC score by 2.5%. Improvements were subtle but systematic. Additionally, we explored statistical post-processing to correct over-confidence bias, improving forecast actionability. However, this method, applied post-run, does not affect the solar-wind state used to propagate CMEs. This work represents the first formal calibration of solar-wind ensembles, laying groundwork for comprehensive forecasting systems like a calibrated multi-model ensemble.
