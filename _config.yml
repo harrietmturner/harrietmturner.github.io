@@ -12,7 +12,7 @@ title                    : "Harriet Turner"
 title_separator          : "-"
 name                     : &name "Harriet Turner"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://harrietmturner.github.io"
+url                      : https://harrietmturner.github.io # the base hostname & protocol for your site e.g. "https://harrietmturner.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "harrietmturner/harrietmturner.github.io"
 
