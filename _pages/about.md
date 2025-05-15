@@ -11,6 +11,9 @@ I am a postdoctoral researcher in the [Department of Meteorology](http://www.rea
 
 ## Recent news
 
+**May 2025**: I recently completed my training with North Dartmoor Search and Rescue Team. More details can be found [here](https://www.reading.ac.uk/news/2025/University-News/Space-scientist-Harriet-Turner-joins-mountain-rescue-team).
+
+
 **November 2024**: I attended European Space Weather Week, my third time at the conference, this year located in Coimbra, Portugal. I presented a poster, which can be found [here](/talks/2024-11-04-ESWW-poster). 
 
 **September 2024**: I attended the UK Space Weather and Space Environment meeting in Sandy Park, Exeter. I was invited to give a talk on my recent work and also to chair a session. More information can be found [here](/talks/2024-09-11-UKSWSE).
