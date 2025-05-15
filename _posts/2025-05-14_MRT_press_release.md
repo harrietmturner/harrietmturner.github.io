@@ -1,7 +1,7 @@
 ---
 title: 'Space scientist joins mountain rescue team.'
 date: 2025-03-30
-permalink: /posts/2025/03/departmental-blog-post/
+permalink: /posts/2025/03/MRT-press-release/
 tags:
   - mountain rescue
   - community
