@@ -2,7 +2,7 @@
 title: "Forecast improvements from solar wind data assimilation. "
 collection: talks
 type: "Departmental Seminar"
-permalink: /talks/2025-02-18-ESWW-poster
+permalink: /talks/2025-02-18-departmental-seminar
 venue: "Department of Meteorology"
 date: 2025-02-18 
 location: "University of Reading, UK"
