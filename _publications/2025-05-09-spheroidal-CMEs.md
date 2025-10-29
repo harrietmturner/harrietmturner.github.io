@@ -6,7 +6,7 @@ permalink: /publication/Spheroidal-CMEs
 excerpt: 'The work presented in this paper shows how fixing the duration of a CME at the model inner boundary can offer improvements over the traditional method of forecasting.'
 date: 2025-05-09
 venue: 'Space Weather'
-paperurl: 'https://www.dropbox.com/scl/fi/d6dmpkkcb040xtkdadxg7/Cone_model_CMEs_V3.pdf?rlkey=p88cwuxvbnhslhz4j1mx5be52&e=1&dl=0'
+paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2025SW004397'
 citation: 'Owens, M.J., Barnard, L.A., Verbeke, C., McGinness, B.P.S., Turner, H., Chi, Y., Gyeltshen, D., Lockwood, M. (2025). Implications of Using Spheroidal Cone Model CMEs in Solar-wind Models. <i>Space Weather<i>.'
 ---
 
