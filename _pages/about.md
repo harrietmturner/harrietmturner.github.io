@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in the [Department of Meteorology](http://www.reading.ac.uk/met/) at the University of Reading, and a member of the [Space and Atmospheric Electricity](https://research.reading.ac.uk/met-spate/) (SPATE) group. My current appointment is funded under NERC's Pushing the Frontiers programme, and is titled "Why have space weather forecasts not improved in over a decade?". This work is focussed on the use of solar wind data assimilation to improve space weather forecasts. 
+I am a space weather scientist at the [UK Met Office](https://weather.metoffice.gov.uk/specialist-forecasts/space-weather), working in the Space Weather Research group within the Satellite Applications and Nowcasting (SAN) team. My main research interests are in heliospheric modelling and solar wind data assimilation.
 
 ## Recent news
+
+**September 2025**: I started a new position at the UK Met Office as a space weather scientist.
 
 **May 2025**: I recently completed my training with North Dartmoor Search and Rescue Team. More details can be found [here](https://www.reading.ac.uk/news/2025/University-News/Space-scientist-Harriet-Turner-joins-mountain-rescue-team).
 
@@ -37,6 +39,8 @@ Supervising alongside Prof. Mathew Owens, Dr Luke Barnard, Dr Matthew Lang (BAS)
 This project is funded through the [SCENARIO DTP](https://research.reading.ac.uk/scenario/) with CASE funding from the Met Office.
 
 ## First-author publications
+
+**Turner, H.**, Owens, M., Barnard, L., Lang, M., Henley, E., Bocquet, F.X., Gonzi, S., Arge, C.N., Biddiscombe, R., and Baratashvili, T. (2025). Using solar wind data assimilation results to drive dynamic solar wind models. *Space Weather, 23*. [DOI.](https://doi.org/10.1029/2025SW004559)
 
 **Turner, H.**, Lang, M., Owens, M., Smith, A., Riley, P., Marsh, M., and Gonzi, S. (2023). Solar wind data assimilation in an operational context: Use of near-real-time data and the forecast value of an L5 monitor. *Space Weather, 21*. [DOI.](https://doi.org/10.1029/2023SW003457)
 
