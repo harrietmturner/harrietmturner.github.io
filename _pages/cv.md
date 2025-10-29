@@ -11,7 +11,7 @@ redirect_from:
 
 ## Present appointment
 
-I am currently holding a postdoctoral research position at the University of Reading, funded by NERC under the 'Pushing the Frontiers' opportunity. The project is titled "Why have space weather forecasts not improved for over a decade?" and focuses on exploring the use of data assimilation in solar wind forecasting. 
+I am currently a space weather scientist at the UK Met Office, working in the Space Weather Research group within the Satellite Applications and Nowcasting team. I started this position on 1st September 2025.  
 
 ## Education
 
@@ -27,6 +27,10 @@ Awarded the BSc prize for highest mark in my cohort (78%).
 
 
 ## Academic experience
+
+**Postdoctoral Research Assistant at the University of Reading** -- *February 2024 to August 2025*
+
+I was a postdoctoral research assistant at the University of Reading, funded by NERC under the 'Pushing the Frontiers' opportunity. The project was titled "Why have space weather forecasts not improved for over a decade?" and focussed on exploring the use of data assimilation in solar wind forecasting. 
 
 **Placement at the Met Office** -- *June 2023*
 
@@ -96,6 +100,10 @@ Presentation about the preliminary work ahead of my 2023 paper.
 
 
 ## Publications
+
+**Turner, H.**, Owens, M., Barnard, L., Lang, M., Henley, E., Bocquet, F. X., Gonzi, S., Arge, C. N., Biddiscombe, R., and Baratashvili, T. (2025). Using solar wind data assimilation results to drive dynamic solar wind models. *Space Weather, 23*. [DOI.](https://doi.org/10.1029/2025SW004559)
+
+Owens, M. J., Barnard, L. A., Verbeke, C., McGinness, B. P. S., **Turner, H.**, Chi, Y., Gyeltshen, D., and Lockwood, M. (2025). Implications of using spheroidal "Cone Model" CMEs in solar-wind models. *Space Weather, 23*. [DOI.](https://doi.org/10.1029/2025SW004397)
 
 Edward-Inatimi, N. O., Owens, M. J., Barnard, L., **Turner, H.**, Marsh, M., Gonzi, S., Lang, M., and Riley, P. (2024). Adapting Ensemble-Calibration Techniques to Probabilistic Solar-Wind Forecasts. *Space Weather, 22*. [DOI.](https://doi.org/10.1029/2024SW004164) 
 
