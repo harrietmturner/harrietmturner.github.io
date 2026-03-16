@@ -15,7 +15,7 @@ I am a space weather scientist at the [UK Met Office](https://weather.metoffice.
 
 **September 2025**: I attended the UK Space Weather and Space Environment meeting in Sheffield. 
 
-**September 2025**: I started a new position at the UK Met Office as a space weather scientist.
+**September 2025**: I started a new position at the UK Met Office as a space weather scientist. It is exciting to start something new, but also sad to leave behind everyone I have worked with at the University of Reading. 
 
 **May 2025**: I recently completed my training with North Dartmoor Search and Rescue Team. More details can be found [here](https://www.reading.ac.uk/news/2025/University-News/Space-scientist-Harriet-Turner-joins-mountain-rescue-team).
 
