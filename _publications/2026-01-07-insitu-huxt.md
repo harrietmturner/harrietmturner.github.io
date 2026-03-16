@@ -5,4 +5,5 @@ category: manuscripts
 permalink: /publication/insitu-huxt
 excerpt: 'This work shows a method of using backmapped solar wind observations to drive inner-heliosphere models. '
 date: 2026-01-07
+venue: 'Space Weather'
 ---
