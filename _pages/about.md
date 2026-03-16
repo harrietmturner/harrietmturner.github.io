@@ -11,7 +11,7 @@ I am a space weather scientist at the [UK Met Office](https://weather.metoffice.
 
 ## Recent news
 
-**October 2025**: I was invited to the Rutherford Appleton Laboratory (RAL) Space Early Careers Research Conference to give a talk in the 'Resilient Society' session. More details can be found [here](/talks/2025-10-15-RAL-ECR).
+**October 2025**: I was invited to the Rutherford Appleton Laboratory (RAL) Space Early Careers Research Conference to give a talk in the 'Resilient Society' session. More details can be found [here](/talks/2025-10-15-RAL-ECC).
 
 **September 2025**: I attended the UK Space Weather and Space Environment meeting in Sheffield. 
 
