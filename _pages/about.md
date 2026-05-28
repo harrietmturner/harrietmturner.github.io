@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a space weather scientist at the [UK Met Office](https://weather.metoffice.gov.uk/specialist-forecasts/space-weather), working in the Space Weather Research group within the Satellite Applications and Nowcasting (SAN) team. My main research interests are in heliospheric modelling and solar wind data assimilation.
+I am a space weather scientist at the [UK Met Office](https://weather.metoffice.gov.uk/specialist-forecasts/space-weather), working in the Space Weather Operations, Observations and Products (SWOOP) team within the Satellite Applications and Nowcasting (SAN) group. My main research interests are in heliospheric modelling and solar wind data assimilation.
 
 ## Recent news
+
+**May 2026**: Following the restructuring of the Space Weather team at the Met Office, I have joined the newly created Space Weather Operations, Observations and Products (SWOOP) team, led by Dr Mike Marsh. 
 
 **October 2025**: I was invited to the Rutherford Appleton Laboratory (RAL) Space Early Careers Research Conference to give a talk in the 'Resilient Society' session. More details can be found [here](/talks/2025-10-15-RAL-ECC).
 
