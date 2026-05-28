@@ -11,7 +11,7 @@ redirect_from:
 
 ## Present appointment
 
-I am currently a space weather scientist at the UK Met Office, working in the Space Weather Research group within the Satellite Applications and Nowcasting team. I started this position on 1st September 2025.  
+I am currently a space weather scientist at the UK Met Office, working in the Space Weather Operations, Observations and Products (SWOOP) team within the Satellite Applications and Nowcasting (SAN) group. I started working for the Met Office on 1st September 2025, but transitioned into the role in SWOOP in May 2026.  
 
 ## Education
 
